@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 # -*-coding:utf-8 -*
-  
+
+'''
 from operator import itemgetter 
 import sys 
   
@@ -24,3 +25,5 @@ for line in sys.stdin:
         current_word = word 
 if current_word == word: 
     print('%s\t%s' % (current_word, current_count))
+'''
+
